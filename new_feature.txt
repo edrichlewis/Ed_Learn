@@ -1,2 +1,4 @@
 added a feature to merge in develop 123678
 
+Bug fix 1
+
