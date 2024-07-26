@@ -1,5 +1,8 @@
 added a feature to merge in develop 123678
 
+<<<<<<< HEAD
 Bug fix 1
 
 Bug fix in prod - hotfix
+=======
+>>>>>>> origin/develop
